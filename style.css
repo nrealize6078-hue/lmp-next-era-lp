@@ -854,7 +854,7 @@ br.sp {
 }
 
 }
-@media(max-width:400px) {
+@media(max-width:370px) {
   .bar-short {
   display:none
 }
